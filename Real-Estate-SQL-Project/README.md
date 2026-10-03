@@ -55,7 +55,7 @@ The dataset is publicly available and is maintained through Data.gov.
 - SQLAlchemy
 - Jupyter Notebook
 - Git & GitHub
-- Power BI *(coming soon)*
+- Tableau Public
 
 ---
 
@@ -157,16 +157,6 @@ Some of the questions explored include:
 - Which neighborhoods have experienced the highest transaction volume?
 - What are the yearly trends in average sale prices?
 - How can recursive CTEs be used to generate reporting timelines?
-
----
-
-## Future Improvements
-
-- Build interactive Power BI dashboards
-- Add Window Function examples
-- Create SQL Views for reporting
-- Optimize queries using indexes
-- Automate ETL pipeline
 
 ---
 

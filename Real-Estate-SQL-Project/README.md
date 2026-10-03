@@ -6,7 +6,7 @@ This project demonstrates an end-to-end data analytics workflow using **Python**
 
 The project begins with a raw CSV dataset, performs ETL (Extract, Transform, Load) using Python, loads the cleaned data into PostgreSQL, and uses SQL to answer business questions through exploratory analysis, aggregations, Common Table Expressions (CTEs), and advanced SQL techniques.
 
-Future work includes connecting the PostgreSQL database to **Power BI** for interactive dashboards.
+Work includes connecting the PostgreSQL database to **Tableau Public** for interactive dashboards.
 
 ---
 
@@ -80,7 +80,7 @@ SQL Analysis
 Business Insights
     │
     ▼
-Power BI Dashboard
+Tableau Public Dashboard
 ```
 
 ---
